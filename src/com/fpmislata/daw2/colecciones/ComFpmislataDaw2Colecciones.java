@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alumno
+ * @author alumno 
  */
 public class ComFpmislataDaw2Colecciones {
 
